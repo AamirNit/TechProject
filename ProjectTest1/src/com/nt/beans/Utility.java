@@ -7,6 +7,10 @@ public class Utility {
 		return new Date();
 	}
 	public void m1() {
+/*<<<<<<< HEAD
 		System.out.println("Utility m1() method....abcd");
+=======*/
+		System.out.println("Utility m1() method::1234");
+//>>>>>>> branch 'master' of https://github.com/AamirNit/TechProject.git
 	}
 }
