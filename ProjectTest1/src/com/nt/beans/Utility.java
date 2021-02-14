@@ -14,4 +14,7 @@ public class Utility {
 		System.out.println("abc123");
 //>>>>>>> branch 'master' of https://github.com/AamirNit/TechProject.git
 	}
+	public void m8() {
+		System.out.println("enclosing_type.enclosing_method()");
+	}
 }
