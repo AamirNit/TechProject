@@ -16,6 +16,6 @@ public class Utility {
 	}
 
 	public void m8() {
-		System.out.println("enclosing_type.enclosing_method()");
+		System.out.println("m8() method() in master");
 	}
 }
