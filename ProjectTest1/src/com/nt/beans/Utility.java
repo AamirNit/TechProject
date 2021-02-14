@@ -16,6 +16,15 @@ public class Utility {
 	}
 
 	public void m8() {
+<<<<<<< HEAD
 		System.out.println("m8() method() in master");
 	}
+=======
+		System.out.println("m8() method()");
+	}
+	public void m9() {
+		System.out.println("Utility.m9()");
+	}
+
+>>>>>>> branch 'master' of https://github.com/AamirNit/TechProject.git
 }
