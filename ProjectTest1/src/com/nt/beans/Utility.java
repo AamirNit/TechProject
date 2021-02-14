@@ -22,4 +22,11 @@ public class Utility {
 		System.out.println("Utility.m9()");
 	}
 
+	public void m10() {
+		System.out.println("Utility.m10() by TL");
+	}
+	public void m3() {
+		System.out.println("Utility.m3()");
+	}
+
 }
