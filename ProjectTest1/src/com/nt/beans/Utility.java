@@ -14,21 +14,4 @@ public class Utility {
 		System.out.println("abc123");
 //>>>>>>> branch 'master' of https://github.com/AamirNit/TechProject.git
 	}
-<<<<<<< HEAD
-	public void m2() {
-		System.out.println("Utility.m2()");
-	}
-	public void m3() {
-		System.out.println("Utility.m3()");
-	}
-	public void m4() {
-		System.out.println("Utility.m4()");
-	}
-	public void m5() {
-		System.out.println("Utility.m5()");
-=======
-	public void m8() {
-		System.out.println("enclosing_type.enclosing_method()");
->>>>>>> refs/heads/Branch1-OTPUPI
-	}
 }
