@@ -20,4 +20,7 @@ public class Utility {
 	public void m9() {
 		System.out.println("Utility.m9()");
 	}
+	public void m10() {
+		System.out.println("Utility.m10() by TL");
+	}
 }
