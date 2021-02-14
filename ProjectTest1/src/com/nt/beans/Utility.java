@@ -15,6 +15,9 @@ public class Utility {
 //>>>>>>> branch 'master' of https://github.com/AamirNit/TechProject.git
 	}
 	public void m8() {
-		System.out.println("enclosing_type.enclosing_method()");
+		System.out.println("m8() method()");
+	}
+	public void m9() {
+		System.out.println("Utility.m9()");
 	}
 }
